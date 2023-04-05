@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  #input {
+    padding: 10px;
+    border: 2px solid #4CAF50;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 18px;
+  }
+  
+  #text {
+    font-size: 24px;
+  }
+  
